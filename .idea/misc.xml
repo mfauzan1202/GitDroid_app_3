@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/drawable/textline.xml" value="0.1415" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/layout/activity_favorite.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/layout/fragment_follows.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/layout/item_user.xml" value="0.25" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/layout/switch_layout.xml" value="0.18" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean - Copy/app/src/main/res/menu/menu_option.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean/app/src/main/res/drawable/textline.xml" value="0.1335" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean/app/src/main/res/layout/fragment_follows.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean/app/src/main/res/layout/item_user.xml" value="0.25" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2 clean/app/src/main/res/menu/menu_option.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/drawable-v24/textline.xml" value="0.144" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/drawable/textline.xml" value="0.144" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/font/roboto.xml" value="0.234375" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/layout/fragment_follower.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/layout/item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/layout/item_user.xml" value="0.25" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission2/app/src/main/res/menu/menu_option.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission3/app/src/main/res/layout/item_follow_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission3/app/src/main/res/layout/item_grid_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Us/AndroidStudioProjects/Submission3/app/src/main/res/menu/menu_option.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

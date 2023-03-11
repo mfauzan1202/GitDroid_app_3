@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="search_menu">Search</string>
+    <string name="tv_item_following">Following</string>
+    <string name="tv_item_follower">Follower</string>
+    <string name="tv_item_company">Company</string>
+    <string name="tv_item_username">Username</string>
+    <string name="search_hint">Masukkan Username</string>
+    <string name="tv_item_lokasi">Lokasi</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repositori</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="tv_label_login">Username</string>
+    <string name="tv_label_name">Name</string>
+    <string name="tv_label_location">Location</string>
+    <string name="tv_label_company">Company</string>
+    <string name="userplaceholder">\@%1$s</string>
+    <string name="empty_value">-</string>
+    <string name="like_user">Like User</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
